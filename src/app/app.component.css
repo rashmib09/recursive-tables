@@ -1,0 +1,63 @@
+.Object {
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(65, 1, 148);
+  color: rgb(238, 238, 238);
+  text-align: left;
+  border: 1px solid rgb(0, 0, 0);
+  vertical-align: top;
+  font-family: Lucida, Courier;
+}
+th {
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(238, 238, 238);
+  color: rgb(0, 0, 0);
+  text-align: left;
+  border: 1px solid rgb(0, 0, 0);
+  vertical-align: top;
+  font-family: Courier;
+  text-transform: uppercase;
+}
+td {
+  padding: 5px;
+  font-size: 12px;
+  border: 1px solid rgb(0, 0, 0) !important;
+  border-style: solid !important;
+  background-color: rgb(255, 255, 255);
+  color: rgb(34, 34, 34);
+  border: 1px solid rgb(0, 0, 0);
+  vertical-align: top;
+  font-family: Courier;
+  white-space: nowrap;
+}
+
+.Array {
+  padding: 5px;
+  font-size: 12px;
+  background-color: rgb(107, 109, 207);
+  color: white;
+  text-align: left;
+  border: 1px solid rgb(0, 0, 0);
+  vertical-align: top;
+  font-family: Courier;
+}
+
+table {
+  padding: 5px;
+  font-size: 12px;
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid rgb(0, 0, 0) !important;
+  border-style: solid !important;
+  background-color: rgb(255, 255, 255);
+  color: rgb(34, 34, 34);
+  border: 1px solid rgb(0, 0, 0);
+  vertical-align: top;
+  font-family: Courier;
+}
+
+.container {
+
+  padding: 100px;
+}
